@@ -25,9 +25,11 @@ The pre-trained models and fine-tuned versions are available on Hugging Face:
 The evaluation of the model is performed using TensorBoard, with metrics including WER, CER, and BLEU scores.
 
 ### Sample TensorBoard Visualizations
-![Training Loss](![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/c2983263-387f-489e-8f17-1ab1e37a70f4))
+![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/631fd5a2-ea04-44c1-9170-98383af19a15)
 
-![BLEU Evaluation![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/f3533637-294f-4a8b-969d-8066d86ad80b))
+![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/58058b2c-6d90-41e9-9ba2-9576920094ef)
+
+
 
 ## Fine-Tuning Process
 The fine-tuning process involves the following steps:
