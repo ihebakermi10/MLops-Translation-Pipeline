@@ -26,7 +26,7 @@ The pre-trained models and fine-tuned versions are available on Hugging Face:
 The evaluation of the model is performed using TensorBoard, with metrics including WER, CER, and BLEU scores.
 
 ### Sample TensorBoard Visualizations
-![Training Loss](images/training_loss.png)
+![Training Loss]([images/training_loss.png](https://huggingface.co/ihebaker10/spark-name-ar-to-en/tensorboard))
 ![WER Evaluation](images/wer_evaluation.png)
 ![CER Evaluation](images/cer_evaluation.png)
 ![BLEU Evaluation](images/bleu_evaluation.png)
