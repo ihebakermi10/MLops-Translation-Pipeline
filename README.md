@@ -1,4 +1,4 @@
-
+![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/fd163b0c-5e9b-4a9b-b746-617d5c9c648a)
 # MLops-Translation-Pipeline
 
 This project aims to create an MLOps pipeline for a translation model, including implementation details, evaluation metrics, and fine-tuning processes. 
@@ -26,10 +26,8 @@ The pre-trained models and fine-tuned versions are available on Hugging Face:
 The evaluation of the model is performed using TensorBoard, with metrics including WER, CER, and BLEU scores.
 
 ### Sample TensorBoard Visualizations
-![Training Loss]([images/training_loss.png](https://huggingface.co/ihebaker10/spark-name-ar-to-en/tensorboard))
-![WER Evaluation](images/wer_evaluation.png)
-![CER Evaluation](images/cer_evaluation.png)
-![BLEU Evaluation](images/bleu_evaluation.png)
+![Training Loss](![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/c2983263-387f-489e-8f17-1ab1e37a70f4))
+![BLEU Evaluation![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/f3533637-294f-4a8b-969d-8066d86ad80b))
 
 ## Fine-Tuning Process
 The fine-tuning process involves the following steps:
