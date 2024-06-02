@@ -79,7 +79,7 @@ You can now proceed with the following steps:
 2. **Upload files**:
    - Upload `requirements.txt`, `train.py`, and `val.py` to the repository.
 
-3. **Add TensorBoard Images**:
-   - Add a folder named `images` and upload the sample images for evaluation (ensure the paths in the README match the actual paths).
-
+3. **Run project**:
+   - using cmd line  'python val.py'
 If you need any further assistance, feel free to ask!
+  - linkedin : linkedin/in/ihebakermi10
