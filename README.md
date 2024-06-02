@@ -1,6 +1,4 @@
-Sure, I'll update the instructions to include the command to run the validation script. Here is the updated README.md:
 
-```markdown
 # MLops-Translation-Pipeline
 
 This project aims to create an MLOps pipeline for a translation model, including implementation details, evaluation metrics, and fine-tuning processes. 
