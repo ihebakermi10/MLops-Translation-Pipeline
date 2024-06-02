@@ -1,4 +1,3 @@
-![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/fd163b0c-5e9b-4a9b-b746-617d5c9c648a)
 # MLops-Translation-Pipeline
 
 This project aims to create an MLOps pipeline for a translation model, including implementation details, evaluation metrics, and fine-tuning processes. 
@@ -27,6 +26,7 @@ The evaluation of the model is performed using TensorBoard, with metrics includi
 
 ### Sample TensorBoard Visualizations
 ![Training Loss](![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/c2983263-387f-489e-8f17-1ab1e37a70f4))
+
 ![BLEU Evaluation![image](https://github.com/ihebakermi10/MLops-Translation-Pipeline/assets/90511874/f3533637-294f-4a8b-969d-8066d86ad80b))
 
 ## Fine-Tuning Process
